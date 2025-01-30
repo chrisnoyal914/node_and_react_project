@@ -13,7 +13,7 @@ function Portal() {
   const [editId, setEditId] = useState(null);
 
   useEffect(() => {
-    if (user?.email === 'josephjaison00724@gmail.com' || user?.email === 'josephjaison0007@gmail.com') {
+    if (user?.email === 'edwij43@gmail.com' || user?.email === 'edwij43@gmail.com') {
       setMail(true);
     }
   }, [user]);
