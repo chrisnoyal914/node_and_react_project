@@ -55,7 +55,7 @@ const Profile = () => {
         <div className="bg-gray-100 p-6 rounded-2xl shadow-lg mt-10 w-full max-w-md text-center">
           <h3 className="text-xl font-semibold text-gray-800 mb-3">User Information</h3>
           <p className="text-sm text-gray-600 mb-1">Username: <span className="font-medium">{user?.nickname || "N/A"}</span></p>
-          <p className="text-sm text-gray-600">Joined: <span className="font-medium">August 2023</span></p>
+          <p className="text-sm text-gray-600">Joined: <span className="font-medium">january 2025</span></p>
         </div>
 
         <div className="bg-white p-6 rounded-2xl shadow-lg mt-10 w-full max-w-md text-center">
